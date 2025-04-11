@@ -68,7 +68,7 @@ This project leverages machine learning techniques to analyze, predict, and clus
 
 | File | Description |
 |------|-------------|
-| `[StressLevelDataset.csv](https://github.com/Rubaikaa/Student-Stress-Detection-/blob/main/StressLevelDataset.csv)` | Dataset used in the project |
+| `[StressLevelDataset.csv]` | Dataset used in the project |
 | `Student_Stress_Analysis.ipynb` | Full step-by-step Colab notebook |
 | `Student_Stress_Report_Final.pdf` | Final report with analysis, insights, and recommendations |
 | `README.md` | This file |
